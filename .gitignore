@@ -1,0 +1,19 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Local env and keys — never commit
+.env
+.env.*
+*.key
+
+# Coverage
+lcov.info
+coverage/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp

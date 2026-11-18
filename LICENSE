@@ -1,0 +1,46 @@
+Saddam Malik Source-Available License v1.0
+
+Copyright (c) 2026 Saddam Malik (https://saddammalik.com)
+
+1. Grant
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to view, study,
+and fork the Software for personal, educational, and evaluation purposes only,
+subject to the conditions in this license.
+
+2. Restrictions
+
+The following acts are not permitted without prior written permission from
+Saddam Malik:
+
+(a) commercial use or production use of the Software or any derivative work;
+(b) redistribution of the Software or any derivative work as a product,
+    including as part of a paid or unpaid offering; and
+(c) offering the Software or any derivative work as a service, hosted
+    product, or protocol that other people can use.
+
+"Evaluation" means privately assessing the Software to decide whether to hire
+Saddam Malik or to learn from its design. It does not include operating a
+market, testnet that third parties use, or any deployment that holds value
+other than the deployer's own throwaway local funds.
+
+3. Permission
+
+To request permission for any use that section 2 restricts, contact Saddam
+Malik via https://saddammalik.com.
+
+4. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+5. Attribution
+
+Copyright notices and this license must be preserved in source copies kept
+under section 1.
